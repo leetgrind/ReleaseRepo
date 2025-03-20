@@ -2,3 +2,4 @@
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Not Hello, World!");
 Console.WriteLine("Hello World Again!");
+Console.WriteLine("Merge or rebase");
